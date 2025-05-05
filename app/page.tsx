@@ -10,8 +10,8 @@ import StatisticsDisplay from "@/components/statistics-display"
 import StatisticsUpdater from "@/components/statistics-updater"
 
 export const metadata: Metadata = {
-  title: "Nguyên Tuấn Anh (Tahn) - Personal Website",
-  description: "Personal website of Nguyên Tuấn Anh (Tahn), showcasing skills, interests, and more.",
+  title: "Trần Minh Huy (Dẻ) - Personal Website",
+  description: "Personal website of Trần Minh Huy (Dẻ), showcasing skills, interests, and more.",
 }
 
 export default function Home() {
