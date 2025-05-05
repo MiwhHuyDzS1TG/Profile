@@ -8,8 +8,8 @@ import ThemeToggle from "@/components/theme-toggle"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Nguyên Tuấn Anh (Tahn)",
-  description: "Personal website of Nguyên Tuấn Anh (Tahn)",
+  title: "Trần Minh Huy (Dẻ)",
+  description: "Personal website of Trần Minh Huy (Dẻ)",
     generator: 'v0.dev'
 }
 
